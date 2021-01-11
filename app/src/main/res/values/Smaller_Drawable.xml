@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Smaller_Drawable">
+        <item name="android:drawableEnd">@drawable/password_right</item>
+        <item name="android:viewportWidth">22</item>
+
+<!--        <item name="android:width">@dimen/cardview_default_radius</item>-->
+<!--        <item name="android:height">@dimen/material_emphasis_medium</item>-->
+
+    </style>
+
+</resources>
